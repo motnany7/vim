@@ -2,4 +2,4 @@ name: Song Seung Hee,
 phone: 010-4136-0713,
 email: motnany7@hanmail.net,
 pet : rina, party,
-coffe : Americano
+
